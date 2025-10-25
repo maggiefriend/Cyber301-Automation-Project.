@@ -1,0 +1,18 @@
+# Dishonest Capacity Calculator
+**Course:** CYBER301  
+**Author:** Maggie Friend  
+**Book Reference:** *Automate the Boring Stuff with Python* by Al Sweigart (Chapter 2: Flow Control)
+
+## 📘 Description
+This Python program calculates the *real* storage capacity of a hard drive or flash drive, based on how manufacturers often advertise their sizes using decimal (10-based) rather than binary (2-based) units.
+
+For example, a drive advertised as 1 TB is actually about 0.91 TB when measured in true binary units.
+
+## ⚙️ How It Works
+The program:
+1. Prompts the user to enter the advertised unit (GB or TB).
+2. Asks for the advertised capacity.
+3. Calculates the real capacity using the proper binary conversion ratio.
+4. Displays both the advertised and actual values.
+
+## 🧮 Sample Run
