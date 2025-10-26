@@ -24,9 +24,3 @@ The program:
 - Added lowercase/uppercase handling for input.
 - Added validation for numeric input.
 - Added friendly messages and program exit for invalid input.
-
-## 🧰 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/Cyber301-Automation-Project.git
-
