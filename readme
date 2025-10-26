@@ -15,4 +15,18 @@ The program:
 3. Calculates the real capacity using the proper binary conversion ratio.
 4. Displays both the advertised and actual values.
 
-## 🧮 Sample Run
+## 🧠 What I Learned
+- How to use `if`, `elif`, and `else` flow control structures.
+- How to validate user input using `try`/`except`.
+- How to use the `sys` module to exit on invalid input.
+
+## 🚀 Improvements
+- Added lowercase/uppercase handling for input.
+- Added validation for numeric input.
+- Added friendly messages and program exit for invalid input.
+
+## 🧰 How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/Cyber301-Automation-Project.git
+
